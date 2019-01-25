@@ -1296,7 +1296,7 @@ msgstr "_Обновить"
 
 #: ../src/ui/popup_menu.c:338 ../src/ui/feed_list_node.c:417
 msgid "_Delete"
-msgstr ""
+msgstr "_Удалить"
 
 #: ../src/ui/popup_menu.c:344
 msgid "Convert To Local Subscriptions..."
@@ -1407,7 +1407,7 @@ msgstr "Удаление"
 
 #: ../src/ui/subscription_dialog.c:352 ../src/fl_sources/opml_source.c:379
 msgid "_Open"
-msgstr ""
+msgstr "_Открыть"
 
 #: ../src/ui/subscription_dialog.c:426
 #, c-format
@@ -1573,7 +1573,7 @@ msgstr "_Подписаться..."
 
 #: ../src/webkit/liferea_web_view.c:206
 msgid "_Copy"
-msgstr ""
+msgstr "_Копировать"
 
 #: ../glade/about.ui.h:1
 msgid "About"
@@ -1662,11 +1662,11 @@ msgstr "Введите данные аккаунта InoReader"
 
 #: ../glade/mainwindow.ui.h:2
 msgid "page 1"
-msgstr ""
+msgstr "страница 1"
 
 #: ../glade/mainwindow.ui.h:3
 msgid "page 2"
-msgstr ""
+msgstr "страница 2"
 
 #: ../glade/mainwindow.ui.h:4 ../glade/prefs.ui.h:4 ../glade/properties.ui.h:28
 msgid "0"
@@ -1678,7 +1678,7 @@ msgstr "Просмотр заголовков"
 
 #: ../glade/mainwindow.ui.h:6
 msgid "page 3"
-msgstr ""
+msgstr "страница 3"
 
 #: ../glade/mainwindow.ui.h:7 ../glade/prefs.ui.h:23
 msgid "Headlines"
@@ -1970,11 +1970,11 @@ msgstr "Отображение папки"
 
 #: ../glade/prefs.ui.h:50
 msgid "Tell sites that I do _not want to be tracked"
-msgstr ""
+msgstr "Передавать сайтам сигнал "Не отслеживать""
 
 #: ../glade/prefs.ui.h:51
 msgid "Privacy"
-msgstr ""
+msgstr "Приватность"
 
 #: ../glade/prefs.ui.h:52
 msgid "Downloading Enclosures"
